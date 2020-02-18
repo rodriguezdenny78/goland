@@ -1,2 +1,7 @@
-"fmt"
-"math/rand"
+import (
+	"fmt"
+	"math"
+)
+
+"fmt" I/O operations
+"math/rand" random math
